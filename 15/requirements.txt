@@ -1,0 +1,7 @@
+antiorm==1.2.1
+asgiref==3.8.1
+db==0.1.1
+db-sqlite3==0.0.1
+Django==5.1.4
+sqlparse==0.5.2
+tzdata==2024.2
